@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "stockall",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "bda0dbf2-b90e-47dd-b9d8-dcdd13522d85",
+			"database_name": "stockall"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
